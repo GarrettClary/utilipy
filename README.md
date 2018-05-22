@@ -6,6 +6,6 @@ This is a small collection of simple Python scripts that I will continue to refi
 * "Password" generator using Python's secrets
 * A quick string hashing tool
 
-### Feel Free to Contribute and/or Help 
+### Feel Free to Help 
 As always, if there are any obvious mistakes or better ways of doing things, feel free to let me know through issues or
 pull request.
