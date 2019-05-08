@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 
+# Generate a random string of a specified length
+
 import string
 import secrets
 import os.path
 import sys
-
 
 def usage():
     file_name = os.path.basename(sys.argv[0])

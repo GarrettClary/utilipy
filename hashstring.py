@@ -5,7 +5,6 @@
 import sys
 import hashlib
 
-
 def hash_1_digest(usr_input):
 	hash_object = hashlib.sha1(usr_input.encode())
 	hex_dig = hash_object.hexdigest()
